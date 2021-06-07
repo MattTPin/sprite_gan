@@ -4,4 +4,4 @@ Project Completed in February 2021 which used a generative adversarial network (
 
 The results of running the model for its first 300 itterations can be seen below.
 
-![image](generated_images/pokemon_1000_speedup2_500.gif)
+![image](generated_images/300_with_counter.gif)
